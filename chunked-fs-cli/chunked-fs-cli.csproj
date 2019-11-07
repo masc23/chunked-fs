@@ -6,4 +6,8 @@
     <RootNamespace>chunked_fs_cli</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\chunked-fs\chunked-fs.csproj" />
+  </ItemGroup>
+
 </Project>
